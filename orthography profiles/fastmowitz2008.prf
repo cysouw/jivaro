@@ -1,0 +1,78 @@
+Graphemes	Normalization	Comments
+ 	 
+a	a
+á	a
+a̱	a̱
+á̱	a̱
+b	b	only in loanwords from Spanish
+c	c
+e	e
+é	e
+e̱	e̱
+é̱	e̱
+g	g
+h	h
+i	i
+í	i
+i̱	i̱
+í̱	i̱
+j	j
+k	k
+l	l	only in loanwords from Spanish
+m	m
+n	n
+o	o	only in loanwords from Spanish
+p	p
+r	r
+s	s
+t	t
+u	u
+ú	u
+u̱	u̱
+ú̱	u̱
+w	w
+y	y
+ʰ	ʰ	only in sound symbolism
+#
+# additional graphemes
+#
+ng	ng
+sh	sh
+ts	ts
+#
+# There are diphtongs and long vowels, but in general, it is difficult in Jivaroan to decide on their status. Because there are not many vowels, it might be better to simply ignore this.
+# diphtongs
+#
+#au	au
+#ai	ai
+#
+# long vowels
+#
+#aa	aa
+#áa	aa
+#a̱a̱	a̱a̱
+#á̱a	a̱a̱
+#ee	ee
+#ée	ee
+#e̱e̱	e̱e̱
+#é̱e̱	e̱e̱
+#ii	ii
+#íi	ii
+#i̱i̱	i̱i̱
+#í̱i̱	i̱i̱
+#oo	oo
+#óo	oo
+#uu	uu
+#úu	uu
+#u̱u̱	u̱u̱
+#ú̱u̱	u̱u̱
+#
+# notes for the transcription
+#
+# when there is an /i/ in the syllable before /ptkjmnv/, then these consonants get palatalized
+# underscored vowels are nasalisation
+# the accent is probably related to underlying stress, no sound difference
+# capital letters are only for names, no sound difference
+# all sequences of identical vowels seem to be long vowels
+# sequences of identical vowels with the stress on the second vowel are probably not long vowels!
+# diphtong /ai/ is pronounced as [ei] in non-initial syllables

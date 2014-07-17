@@ -1,0 +1,44 @@
+Graphemes	Normalization	Frequency
+ 	 	838
+a	a	16364
+á	a	17
+c	c	1285
+e	e	3560
+g	g	1011
+h	h	2046
+i	i	5783
+í	i	5
+j	j	1370
+k	k	4966
+m	m	5475
+n	n	6159
+p	p	1895
+r	r	2440
+s	s	4360
+t	t	7426
+u	u	7959
+ú	u	6
+w	w	1147
+y	y	853
+#
+# additional graphemes
+#
+ch	ch
+sh	sh
+ts	ts
+#
+# long vowels ???
+# There are long vowels, but it is difficult to decide which sequences are supposed to have a different status. Maybe it is better to just treat all vowel symbols as individual elements.
+#
+#aa	aa
+#ee	ee
+#ii	ii
+#uu	uu
+W
+# notes for transcription
+#
+# /g/ seems to be close to [ŋ]
+# palatalization of n after i. Specifically /inV/ -> [iñV]
+# accents are only used to disambiguate orthographically. should be ignored	 
+# no explanation in the source about double vowels. Might be length?
+# no indication of diphtongs

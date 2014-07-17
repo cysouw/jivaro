@@ -1,0 +1,64 @@
+Graphemes	Normalization	Frequency	Comment
+ 	 	787
+'	'	1255	this might be a schwa or something like that
+a	a	24494
+á	a	7201
+a̱	a̱	74
+á̱	a̱	87
+c	c	2925
+e	e	4526
+é	e	1657
+e̱	e̱	11
+é̱	e̱	26
+h	h	4648
+i	i	12885
+í	i	3037
+i̱	i̱	52
+í̱	i̱	92
+j	j	3050
+k	k	13039
+m	m	13020
+n	n	10438
+p	p	5139
+r	r	7370
+s	s	7708
+t	t	9833
+u	u	12703
+ú	u	2431
+u̱	u̱	15
+ú̱	u̱	5
+w	w	2740
+y	y	1655
+ᵃ	ᵃ	6
+ᵉ	ᵉ	147
+ᵘ	ᵘ	214
+ⁱ	ⁱ	50
+#
+# Bigraphs
+#
+nk	nk
+nt	nt
+#
+# Diphtonghs?
+#
+#ai	ai
+#ái	ai
+#au	au
+#áu	au
+#
+# Long vowels?
+#
+#aa	aa
+#áa	aa
+#ii	ii
+#íi	ii
+#ee	ee
+#ée	ee
+#uu	uu
+#úu	uu
+#
+# Notes on transcription
+#
+# The superscript vowels are claimed to be 'real phonemes' in the source.
+# u/w and i/y are very similar. w and y used at the start of a sillable.
+# nothing is said about the accent, so I assume it is stress, and I remove it here from the OP

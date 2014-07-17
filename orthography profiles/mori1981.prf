@@ -1,0 +1,44 @@
+Graphemes	Normalization	Frequency	Comment
+ 	 	149
+-	-	2
+a	a	2326
+á	a	1454
+ã	ã	98
+ã́	ã	74
+b	b	131
+#c	c	427	Should only occur in digraphs, see below
+d	d	170
+e	e	460
+é	e	352
+ẽ	ẽ	46
+ẽ́	ẽ	26
+g	g	383
+h	h	679
+i	i	1213
+í	i	537
+ĩ	ĩ	62
+ĩ́	ĩ	50
+j	j	936
+k	k	1410
+m	m	1144
+n	n	945
+p	p	692
+r	r	13	Probably only in loanwords
+s	s	868
+t	t	2046
+u	u	1528
+ú	u	632
+ũ	ũ	124
+ṹ	ũ	94
+w	w	492
+y	y	334
+#
+# Bigraphs
+ch	ch
+ts	ts
+sh	sh
+#
+# Notes on Transcription
+# ~ is nasalisation, accent is stress. Stress is removed in this OP.
+# h is glottal stop
+# g is velar nasal, but intervocalic more like /g/, or almost glide-like

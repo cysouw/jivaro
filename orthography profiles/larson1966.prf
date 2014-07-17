@@ -1,0 +1,47 @@
+Graphemes	Normalization	Frequency	Comment
+ 	 	206
+a	a	3060
+á	a	1836
+a̱	a̱	138
+á̱	a̱	133
+b	b	193
+c	c	565
+d	d	242
+e	e	770
+é	e	462
+e̱	e̱	79
+é̱	e̱	56
+g	g	683
+h	h	866
+i	i	1369
+í	i	688
+i̱	i̱	198
+í̱	i̱	110
+j	j	1098
+k	k	1856
+m	m	1408
+n	n	1452
+p	p	863
+r	r	9	only in Spanish loanwords
+s	s	1096
+t	t	3234
+u	u	1924
+ú	u	777
+u̱	u̱	235
+ú̱	u̱	132
+w	w	610
+y	y	413
+#
+# additional graphemes
+#
+ch	ch
+sh	sh
+ts	ts
+#
+# notes for transcription
+#
+# /h/ is a glottal stop
+# underscores are nasalisation
+# final /bdg/ seem to be nasalised
+# accents seem to be stress, not vowel quality
+# there are many different identical vowel-sequences. Are they long vowels? nothing in the source about this.
