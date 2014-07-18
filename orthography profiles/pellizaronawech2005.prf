@@ -5,7 +5,7 @@ a	a	24494
 á	a	7201
 a̱	a̱	74
 á̱	a̱	87
-c	c	2925
+#c	c	2925	only in "ch" digraphs
 e	e	4526
 é	e	1657
 e̱	e̱	11
@@ -38,6 +38,9 @@ y	y	1655
 #
 nk	nk
 nt	nt
+ch	ch	not described in source as a digraph
+sh	sh	not described in source as a digraph
+ts	ts	not described in source as a digraph
 #
 # Diphtonghs?
 #

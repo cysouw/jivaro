@@ -5,7 +5,7 @@ á	a	10848
 a̱	a̱	895
 á̱	a̱	431
 b	b	1124
-c	c	3363	should only occur in "ch" digraph
+#c	c	3363	only occurs in "ch" digraph
 d	d	1185
 e	e	4758
 é	e	2686
@@ -38,10 +38,9 @@ ch	ch
 mb	mb
 nd	nd
 ts	ts
+sh	sh	not described in source as a digraph
 #
 # long vowels ?
 # The seem to occur, but I don't understand the difference in stress placement, e.g. íi vs ií
 #
 # The accent is not explained, so I think it is related to stress placement, and thus removed here.
-#
-# c also occurs as a phone outside "ch" digraph, e.g. yagkug1998/150/29	yáijcuh emátasa	achicar	y a i j c u h # e m a t a s a

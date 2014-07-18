@@ -5,7 +5,7 @@ á	a
 a̱	a̱
 á̱	a̱
 b	b	only in loanwords from Spanish
-c	c
+c	c	only in loanwords from Spanish
 e	e
 é	e
 e̱	e̱
@@ -39,6 +39,7 @@ y	y
 ng	ng
 sh	sh
 ts	ts
+ch	ch	not described in the introduction, but clearly a digraph in the orthography
 #
 # There are diphtongs and long vowels, but in general, it is difficult in Jivaroan to decide on their status. Because there are not many vowels, it might be better to simply ignore this.
 # diphtongs
