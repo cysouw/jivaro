@@ -1,3 +1,7 @@
+# conversion of the qlc-dictionary files into one large etymological file
+# the result will be one file with all the different headwords from all dictionaries
+# please note that the code is rather inefficient, and it might take a few minutes...
+
 library(qlcRecode)
 
 convert <- function(source) {
@@ -24,7 +28,7 @@ convert <- function(source) {
 
 	n <- length(WORD)
 	SOURCE <- rep(source, times = n)
-	ETYMONID <- rep(NA, times = n)
+	ETYMONID <- rep(0, times = n)
 	LANGUAGE <- rep(as.character(data[1,"HEAD_DOCULECT"]), times = n)
 	
 	result <- cbind(LANGUAGE,SOURCE,PAGE,WORD,ETYMONID,ALIGNMENT,TRANSLATION)
@@ -40,4 +44,4 @@ joined <- do.call(rbind, all)
 ID <- 1:dim(joined)[1]
 joined <- cbind(ID,joined)
 
-# write.table(joined,"../data.tsv",sep="\t",row.names=F,quote=F)
+write.table(joined,"../data.tsv",sep="\t",row.names=F,quote=F)
