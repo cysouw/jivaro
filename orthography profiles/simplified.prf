@@ -7,17 +7,20 @@ ã	A
 ã́	A
 a̱	A
 á̱	A
-b	B
+# P is the regular representation for [b] in SCA @JML
+b	P
 c	K
 ch	T
-d	D
+# see above @JML
+d	T
 e	E
 é	E
 ẽ	E
 ẽ́	E
 e̱	E
 é̱	E
-f	F
+# B is regular in SCA for labial fricatives @JML
+f	B
 g	N
 h	H
 i	I
@@ -26,6 +29,7 @@ ĩ	I
 ĩ́	I
 i̱	I
 í̱	I
+# are we sure the j is really an approximant and not something like /x/? @JML
 j	J
 k	K
 l	L
@@ -38,7 +42,8 @@ r	R
 s	S
 sh	S
 t	T
-ts	T
+# if this counts as an affricate, better write it as C @JML
+ts	C
 u	U
 ú	U
 ũ	U
@@ -46,9 +51,11 @@ ṹ	U
 u̱	U
 ú̱	U
 w	W
-y	Y
+# this is a tricky one-to-many-mapping, testing it with J for now @JML
+y	J
 ʰ	NULL
 ᵃ	A
 ᵉ	E
-ᵘ	U
+# rounded mid-vowels are Y in SCA @JML
+ᵘ	Y
 ⁱ	I
