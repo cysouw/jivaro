@@ -1,42 +1,42 @@
-Graphemes	Normalization	Frequency	Comment
- 	 	149
--	-	2
-a	a	2326
-á	a	1454
-ã	ã	98
-ã́	ã	74
-b	b	131
-#c	c	427	Should only occur in digraphs, see below
-d	d	170
-e	e	460
-é	e	352
-ẽ	ẽ	46
-ẽ́	ẽ	26
-g	g	383
-h	h	679
-i	i	1213
-í	i	537
-ĩ	ĩ	62
-ĩ́	ĩ	50
-j	j	936
-k	k	1410
-m	m	1144
-n	n	945
-p	p	692
-r	r	13	Probably only in loanwords
-s	s	868
-t	t	2046
-u	u	1528
-ú	u	632
-ũ	ũ	124
-ṹ	ũ	94
-w	w	492
-y	y	334
+Graphemes	NoAccent	SCA	Comment
+ 	 	?
+-	-	?
+a	a	A
+á	a	A
+ã	ã	A
+ã́	ã	A
+b	b	P
+d	d	T
+e	e	E
+é	e	E
+ẽ	ẽ	E
+ẽ́	ẽ	E
+g	g	K
+h	h	H
+i	i	I
+í	i	I
+ĩ	ĩ	I
+ĩ́	ĩ	I
+j	j	J
+k	k	K
+m	m	M
+n	n	N
+p	p	P
+r	r	R	Probably only in loanwords
+s	s	S
+t	t	T
+u	u	Y
+ú	u	Y
+ũ	ũ	Y
+ṹ	ũ	Y
+w	w	W
+y	y	Y
 #
 # Bigraphs
-ch	ch
-ts	ts
-sh	sh
+#
+ch	ch	C
+ts	ts	T
+sh	sh	S
 #
 # Notes on Transcription
 # ~ is nasalisation, accent is stress. Stress is removed in this OP.

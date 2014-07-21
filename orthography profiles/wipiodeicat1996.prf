@@ -1,35 +1,35 @@
-Graphemes	Normalization	Frequency	Comment
- 	 	541
-a	a	12978
-á	a	6600
-b	b	1087
-c	c	1	only in Spanish loanword
-d	d	1017
-e	e	2985
-é	e	1686
-f	f	1	only in Spanish loanword
-g	g	2838
-h	h	3280
-i	i	6144
-í	i	2979
-j	j	3731
-k	k	6744
-m	m	5541
-n	n	5160
-p	p	3076
-r	r	49	only in Spanish loanwords
-s	s	3723
-t	t	11276
-u	u	8057
-ú	u	3118
-w	w	2100
-y	y	1284
+Graphemes	NoAccent	SCA	Comment
+ 	 	?
+a	a	A
+á	a	A
+b	b	P
+c	c	C	only in Spanish loanwords
+d	d	T
+e	e	E
+é	e	E
+f	f	B	only in Spanish loanwords
+g	g	K
+h	h	H
+i	i	I
+í	i	I
+j	j	J
+k	k	K
+m	m	M
+n	n	N
+p	p	P
+r	r	R	only in Spanish loanwords
+s	s	S
+t	t	T
+u	u	Y
+ú	u	Y
+w	w	W
+y	y	Y
 #
 # bigraphs
 #
-ch	ch
-sh	sh
-ts	ts
+ch	ch	C
+sh	sh	S
+ts	ts	T
 #
 # long vowels
 # There are long vowels, but it is difficult to decide which sequences are supposed to have a different status. Maybe it is better to just treat all vowel symbols as individual elements.
@@ -37,3 +37,4 @@ ts	ts
 # notes on transcription
 # there is nasalisation, but it is not transcribed in this dictionary!
 # "c" should only occur in digraph "ch" and in spanish loanwords
+

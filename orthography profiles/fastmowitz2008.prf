@@ -1,45 +1,45 @@
-Graphemes	Normalization	Comments
+Graphemes	NoAccent	SCA	Comments
  	 
-a	a
-á	a
-a̱	a̱
-á̱	a̱
-b	b	only in loanwords from Spanish
-c	c	only in loanwords from Spanish
-e	e
-é	e
-e̱	e̱
-é̱	e̱
-g	g
-h	h
-i	i
-í	i
-i̱	i̱
-í̱	i̱
-j	j
-k	k
-l	l	only in loanwords from Spanish
-m	m
-n	n
-o	o	only in loanwords from Spanish
-p	p
-r	r
-s	s
-t	t
-u	u
-ú	u
-u̱	u̱
-ú̱	u̱
-w	w
-y	y
-ʰ	ʰ	only in sound symbolism
+a	a	A
+á	a	A
+a̱	a̱	A
+á̱	a̱	A
+b	b	P	only in loanwords from Spanish
+c	c	C	only in loanwords from Spanish
+e	e	E
+é	e	E
+e̱	e̱	E
+é̱	e̱	E
+g	g	K
+h	h	H
+i	i	I
+í	i	I
+i̱	i̱	I
+í̱	i̱	I
+j	j	J
+k	k	K
+l	l	L	only in loanwords from Spanish
+m	m	M
+n	n	N
+o	o	U	only in loanwords from Spanish
+p	p	P
+r	r	R
+s	s	S
+t	t	T
+u	u	Y
+ú	u	Y
+u̱	u̱	Y
+ú̱	u̱	Y
+w	w	W
+y	y	Y
+ʰ	ʰ	?	only in sound symbolism
 #
 # additional graphemes
 #
-ng	ng
-sh	sh
-ts	ts
-ch	ch	not described in the introduction, but clearly a digraph in the orthography
+ng	ng	N
+sh	sh	S
+ts	ts	T
+ch	ch	C	not described in the introduction, but clearly a digraph in the orthography
 #
 # There are diphtongs and long vowels, but in general, it is difficult in Jivaroan to decide on their status. Because there are not many vowels, it might be better to simply ignore this.
 # diphtongs

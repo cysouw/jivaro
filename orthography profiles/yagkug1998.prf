@@ -1,46 +1,46 @@
-Graphemes	Normalization	Frequency	Comment
- 	 	818
-a	a	29756
-á	a	10848
-a̱	a̱	895
-á̱	a̱	431
-b	b	1124
-#c	c	3363	only occurs in "ch" digraph
-d	d	1185
-e	e	4758
-é	e	2686
-e̱	e̱	177
-é̱	e̱	73
-g	g	2966
-h	h	4923
-i	i	9236
-í	i	4461
-i̱	i̱	286
-í̱	i̱	178
-j	j	8257
-k	k	11674
-m	m	12628
-n	n	8402
-p	p	5232
-r	r	14	not native sound, probably only in loanwords
-s	s	10018
-t	t	18410
-u	u	15631
-ú	u	4855
-u̱	u̱	538
-ú̱	u̱	245
-w	w	3682
-y	y	2287
+Graphemes	NoAccent	SCA	Comment
+ 	 	?
+a	a	A
+á	a	A
+a̱	a̱	A
+á̱	a̱	A
+b	b	P
+d	d	T
+e	e	E
+é	e	E
+e̱	e̱	E
+é̱	e̱	E
+g	g	K
+h	h	H
+i	i	I
+í	i	I
+i̱	i̱	I
+í̱	i̱	I
+j	j	J
+k	k	K
+m	m	M
+n	n	N
+p	p	P
+r	r	R	not native sound, probably only in loanwords
+s	s	S
+t	t	T
+u	u	Y
+ú	u	Y
+u̱	u̱	Y
+ú̱	u̱	Y
+w	w	W
+y	y	Y
 #
 # bigraphs
 #
-ch	ch
-mb	mb
-nd	nd
-ts	ts
-sh	sh	not described in source as a digraph
+ch	ch	C
+ts	ts	T
+sh	sh	S	not described in source as a digraph
+#mb	mb	M	described as special combination in the source, but the status of n+C is unclear in Jivaroan
+#nd	nd	N	described as special combination in the source, but the status of n+C is unclear in Jivaroan
 #
 # long vowels ?
 # The seem to occur, but I don't understand the difference in stress placement, e.g. íi vs ií
 #
 # The accent is not explained, so I think it is related to stress placement, and thus removed here.
+

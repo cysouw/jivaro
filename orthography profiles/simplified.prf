@@ -1,4 +1,4 @@
-Graphemes	Simplified
+Graphemes	SCA
  	NULL
 '	NULL
 a	A
@@ -8,8 +8,8 @@ ã́	A
 a̱	A
 á̱	A
 b	B
-c	C
-ch	CH
+c	K
+ch	T
 d	D
 e	E
 é	E
@@ -18,7 +18,7 @@ ẽ́	E
 e̱	E
 é̱	E
 f	F
-g	G
+g	N
 h	H
 i	I
 í	I
@@ -31,14 +31,14 @@ k	K
 l	L
 m	M
 n	N
-ng	NG
+ng	N
 o	O
 p	P
 r	R
 s	S
-sh	SH
+sh	S
 t	T
-ts	TS
+ts	T
 u	U
 ú	U
 ũ	U
