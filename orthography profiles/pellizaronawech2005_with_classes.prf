@@ -1,0 +1,67 @@
+Graphemes	Normalization	SCA	Frequency	Comment
+ 	 	?	787
+'	'	?	1255	this might be a schwa or something like that
+a	a	A	24494
+á	a	A	7201
+a̱	a̱	A	74
+á̱	a̱	A	87
+#c	c	2925	only in "ch" digraphs
+e	e	E	4526
+é	e	E	1657
+e̱	e̱	E	11
+é̱	e̱	E	26
+h	h	H	4648
+i	i	I	12885
+í	i	I	3037
+i̱	i̱	I	52
+í̱	i̱	I	92
+j	j	J	3050
+k	k	K	13039
+m	m	M	13020
+n	n	N	10438
+p	p	P	5139
+r	r	R	7370
+s	s	S	7708
+t	t	T	9833
+u	u	Y	12703
+ú	u	Y	2431
+u̱	u̱	Y	15
+ú̱	u̱	Y	5
+w	w	W	2740
+y	y	Y	1655
+ᵃ	ᵃ	?	6
+ᵉ	ᵉ	?	147
+ᵘ	ᵘ	?	214
+ⁱ	ⁱ	?	50
+#
+# Bigraphs
+#
+nk	nk	N
+nt	nt	N
+ch	ch	C	not described in source as a digraph
+sh	sh	S	not described in source as a digraph
+ts	ts	T	not described in source as a digraph
+#
+# Diphtonghs?
+#
+#ai	ai
+#ái	ai
+#au	au
+#áu	au
+#
+# Long vowels?
+#
+#aa	aa
+#áa	aa
+#ii	ii
+#íi	ii
+#ee	ee
+#ée	ee
+#uu	uu
+#úu	uu
+#
+# Notes on transcription
+#
+# The superscript vowels are claimed to be 'real phonemes' in the source.
+# u/w and i/y are very similar. w and y used at the start of a sillable.
+# nothing is said about the accent, so I assume it is stress, and I remove it here from the OP
