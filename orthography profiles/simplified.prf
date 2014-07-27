@@ -7,11 +7,9 @@ ã	A
 ã́	A
 a̱	A
 á̱	A
-# P is the regular representation for [b] in SCA @JML
 b	P
 c	K
 ch	T
-# see above @JML
 d	T
 e	E
 é	E
@@ -19,7 +17,6 @@ ẽ	E
 ẽ́	E
 e̱	E
 é̱	E
-# B is regular in SCA for labial fricatives @JML
 f	B
 g	N
 h	H
@@ -42,7 +39,6 @@ r	R
 s	S
 sh	S
 t	T
-# if this counts as an affricate, better write it as C @JML
 ts	C
 u	U
 ú	U
